@@ -7,7 +7,6 @@
   the main programming language. 
 * It provides a **reasonably well-written** code example that is **significantly bigger** than what students 
   usually write in data structure modules. 
-* This is much better than AddressBook Level 1.
   
 **Useful Links**
 * [User Guide](doc/UserGuide.md) 
